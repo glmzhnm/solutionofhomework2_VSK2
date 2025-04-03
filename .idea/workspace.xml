@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab2053e1-41b8-4bd3-ae97-c537ea57c008" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Images.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoadFullimage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyweightPattern/MapMarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyweightPattern/MarkerStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyweightPattern/MarketStyleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecurityOfProxyImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -39,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -60,20 +67,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743672963811</updated>
-      <workItem from="1743672965128" duration="3129000" />
+      <workItem from="1743672965128" duration="7426000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
+          <line>13</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

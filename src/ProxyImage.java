@@ -10,7 +10,7 @@ public class ProxyImage implements Images{
     }
     public void displayFullImage() {
       if(loadFullimage == null){
-          loadFullimage = new loadFullimage(filename);
+          loadFullimage = new LoadFullimage(filename);
       }
       loadFullimage.displayFullImage();
     }
